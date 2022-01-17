@@ -4,8 +4,7 @@
 - [ ] 交作業
 - [ ] 練習影片
 
-<https://www.youtube.com/watch?v=eT6Xza1T4KA>
-
+<https://www.youtube.com/watch?v=eT6Xza1T4KA><br>
 [影片](https://www.youtube.com/watch?v=eT6Xza1T4KA)
 
 ![error](https://tinyurl.com/3he399yu)
@@ -18,9 +17,6 @@ def hello():
     print(hello world)
 ```
 
-
-
-
 ---
 
 
@@ -28,7 +24,4 @@ def hello():
 |  :-  |  :-:  |  -:  |
 |100000分|950000分|98000分|
 
-> [老師]爽啦
-
-* sd
-* sdas
+> [老師]今天很棒
