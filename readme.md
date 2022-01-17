@@ -5,7 +5,6 @@
 - [ ] 練習影片
 
 <https://www.youtube.com/watch?v=eT6Xza1T4KA>
-
 [影片](https://www.youtube.com/watch?v=eT6Xza1T4KA)
 
 ![error](https://tinyurl.com/3he399yu)
@@ -17,9 +16,6 @@
 def hello():
     print(hello world)
 ```
-
-
-
 
 ---
 
