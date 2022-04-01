@@ -1,1 +1,3 @@
 asdasdasd
+當新的功能完成後, 先送 PR 到 testing 環境測試
+測試沒問題再合併進 staging 環境做為上線前的預備
